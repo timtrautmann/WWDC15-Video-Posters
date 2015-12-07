@@ -5,8 +5,7 @@ This sketch file is organized into several pages of artboards. Each
 artboard represents a conference session and includes the session number,
 platform(s), category, and title of the session.
 
-Poster images are (width x height) and look like this:
+Poster images are (480px x 675px, 1:1.5) and look like this:
 
-![Image of WWDC15 Session Poster](http://bringo.github.io/images/Session%20408.png)
-
+<img style="border-style: solid #9B9B9B;" src="https://bringo.github.com/images/Session%20408.png" width="480" height="675" alt="Image of WWDC15 Session Poster" />
 
