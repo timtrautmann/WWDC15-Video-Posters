@@ -10,3 +10,6 @@ Poster images are (480px x 675px, 1:1.5) and look like this:
 
 ![Image of WWDC15 Session Poster](http://bringo.github.io/images/Session%20408.png)
 
+The poster image in the Apple TV Flex app might look like this:
+
+![Image of the poster image in the Apple TV Flex app](https://bringo.github.io/images/Apple%20TV%20Poster%20Screenshot.png)
