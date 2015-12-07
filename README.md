@@ -7,5 +7,5 @@ platform(s), category, and title of the session.
 
 Poster images are (480px x 675px, 1:1.5) and look like this:
 
-<img style="border-style: solid #9B9B9B;" src="https://bringo.github.com/images/Session%20408.png" width="480" height="675" alt="Image of WWDC15 Session Poster" />
+<img style="img { "border-style: 1px solid #9B9B9B; }" src="https://bringo.github.com/images/Session%20408.png" width="480" height="675" alt="Image of WWDC15 Session Poster" />
 
