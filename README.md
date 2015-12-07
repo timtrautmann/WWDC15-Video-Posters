@@ -8,5 +8,5 @@ platform(s), category, and title of the session.
 
 Poster images are (480px x 675px, 1:1.5) and look like this:
 
-![Image of WWDC15 Session Poster](http://bringo.github.io/images/Session%20408.png_
+![Image of WWDC15 Session Poster](http://bringo.github.io/images/Session%20408.png)
 
