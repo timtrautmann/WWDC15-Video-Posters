@@ -1,5 +1,5 @@
 # WWDC15-Video-Posters
-A Sketch file of 105 video posters, one for each session, suitable for 
+A [Sketch](http://www.sketchapp.com) file of 105 video posters, one for each session, suitable for 
 use with [Plex Media Server](https://plex.tv/).
 
 This sketch file is organized into several pages of artboards. Each
